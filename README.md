@@ -121,8 +121,4 @@ Une question ou une opportunité ? N'hésitez pas :
 - 💼 [linkedin.com/in/alexandrehmd](https://www.linkedin.com/in/alexandrehmd)
 - 🎮 [Discord](https://discord.com/users/466698154205773844)
 
-<div align="center">
-
-*Fait avec ☕ à 42 Paris*
-
 </div>
