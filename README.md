@@ -12,7 +12,6 @@
 [![Site](https://img.shields.io/badge/Site-alexandre--hamad.fr-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://alexandre-hamad.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandrehmd-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrehmd)
 [![Email](https://img.shields.io/badge/Email-alexandre.hamad%40hotmail.fr-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:alexandre.hamad@hotmail.fr)
-[![Discord](https://img.shields.io/badge/Discord-sku-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/466698154205773844)
 
 [À propos](#-à-propos) •
 [Ce que je cherche](#-ce-que-je-cherche) •
@@ -121,6 +120,5 @@ Une question ou une opportunité ? N'hésitez pas :
 - ✉️ [alexandre.hamad@hotmail.fr](mailto:alexandre.hamad@hotmail.fr)
 - 🌐 [alexandre-hamad.fr](https://alexandre-hamad.fr)
 - 💼 [linkedin.com/in/alexandrehmd](https://www.linkedin.com/in/alexandrehmd)
-- 🎮 [Discord](https://discord.com/users/466698154205773844)
 
 </div>
