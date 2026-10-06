@@ -2,7 +2,7 @@
 
 # 👋 Alexandre « Sku » Hamad
 
-**Développeur junior orienté bas niveau · Étudiant à 42 Paris · Ancien couvreur et chef d'équipe**
+**Développeur junior · Étudiant à 42 Paris · Ancien couvreur et chef d'équipe**
 
 ![42](https://img.shields.io/badge/school-42%20Paris-000000?style=flat-square)
 ![Cursus](https://img.shields.io/badge/tronc%20commun-validé-success?style=flat-square)
@@ -28,23 +28,23 @@
 
 ```console
 alehamad@42paris:~$ whoami
-Alexandre « Sku » Hamad — développeur, préférence pour le bas niveau
+Alexandre « Sku » Hamad — développeur
 ```
 
 Joueur et passionné de hardware depuis toujours, je monte et optimise mes propres machines : assemblage, BIOS, systèmes d'exploitation, services. J'ai voulu comprendre ce qui se passe **de l'autre côté, dans le code**.
 
-Après **11 ans comme couvreur**, dont plusieurs en tant que **chef d'équipe**, je me suis reconverti à **42 Paris**, où je développe principalement en **C et C++**, au plus près de la machine.
+Après **11 ans comme couvreur**, dont plusieurs en tant que **chef d'équipe**, je me suis reconverti à **42 Paris**, où je développe en **C, C++ et TypeScript** : système, réseau et web.
 
 - ✅ **Tronc commun validé** : plus de 20 projets en C, C++, réseau, système et web
 - 🎓 Poursuite du cursus **42 Advanced** en vue d'un titre RNCP
-- 🔧 En ce moment : j'apprends l'**assembleur** et je consolide mes bases en C / C++
+- 🔧 En ce moment : je consolide mes bases en C / C++ et en développement web (TypeScript, React, Next.js)
 - 🧱 Du chantier, j'ai gardé la **rigueur**, le **sens des responsabilités** et l'habitude du **travail en équipe**
 
 ---
 
 ## 🎯 Ce que je cherche
 
-> **Alternance, stage ou CDI** en développement — logiciel, système, réseau ou web, avec une préférence pour le **bas niveau**.
+> **Alternance, stage ou CDI** en développement — logiciel, système, réseau ou web.
 > 📍 Île-de-France · ⏱️ **Disponible immédiatement**
 
 ---
