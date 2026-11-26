@@ -1,8 +1,17 @@
-Étudiant à 42 Paris, ancien couvreur.
+Étudiant à **42 Paris**, je vise le titre **RNCP niveau 7** en **systèmes d'information et réseaux** (équivalent Bac+5).
 
 J'ai toujours monté et bidouillé mes propres machines : assemblage, BIOS, installation de systèmes, overclocking. Après 11 ans sur les toits, dont plusieurs à la tête d'une équipe, j'ai voulu comprendre ce qui se passe de l'autre côté, dans le code.
 
 Depuis, j'aime refaire les outils que j'utilise pour comprendre comment ils fonctionnent : un shell, un serveur IRC, un moteur 3D, et maintenant des applications web.
+
+### Cursus 42
+
+À 42, pas de profs ni de cours : on apprend en réalisant des projets, seul ou en équipe, en **peer-to-peer**. Chaque projet est corrigé par d'autres étudiants en **code review** : il faut expliquer et défendre son code en face à face, puis passer les tests automatiques, avant de pouvoir passer au suivant.
+
+![common core](https://img.shields.io/badge/common%20core-passed-green?style=flat-square)
+![advanced core](https://img.shields.io/badge/advanced%20core-WIP-yellow?style=flat-square)
+
+Le **common core** est le tronc commun du cursus : C, C++, Unix, réseau, conteneurs et web, de la libft jusqu'à ft_transcendence. L'**advanced core** est la suite, celle qui mène au RNCP 7 : des projets plus poussés, pour moi en systèmes d'information et réseaux (système, réseau, sécurité).
 
 ### Projets
 
